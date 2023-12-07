@@ -2,17 +2,15 @@
 
 Você foi vítima de um phishing via QR Code.
 </h1>
-<br><br>
-
-"A curiosidade nunca matou o gato, e sim o deixou com sete vidas."<br><br>
-
-“O importante é não parar de questionar. Curiosidade tem sua própria razão para existir.” <br>
-<br>
 <h2>
 Seu acesso foi registrado.   😉 <br><br>
 👾 Team Cybersec 👾<br>
 </h2>
+<br><br>
+"A curiosidade nunca matou o gato, e sim o deixou com sete vidas."<br><br>
 
+“O importante é não parar de questionar. Curiosidade tem sua própria razão para existir.” <br>
+<br>
 
 <html>
 <body onload="httpGet()">
