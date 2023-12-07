@@ -1,9 +1,5 @@
-<!DOCTYPE html>
 <html>
 <body onload="httpGet()">
-<h1>HTML DOM Events</h1>
-<h2>The onload Event</h2>
-<div>post title: <span id="spanId"></span></div>
 <label for="email">Enter your email:</label>
 <input type="email" id="email" name="email"> 
 
