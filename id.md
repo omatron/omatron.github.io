@@ -2,7 +2,6 @@
 
 Você foi vítima de um phishing via QR Code.
 </h1>
-
 <br><br>
 
 "A curiosidade nunca matou o gato, e sim o deixou com sete vidas."<br><br>
