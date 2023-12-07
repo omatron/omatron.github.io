@@ -7,8 +7,6 @@ Você foi vítima de um phishing via QR Code.
 "A curiosidade nunca matou o gato, e sim o deixou com sete vidas."<br><br>
 
 “O importante é não parar de questionar. Curiosidade tem sua própria razão para existir.” <br>
-Albert Einstein <br>
-<br>
 
 <br><br>
 <h2>
