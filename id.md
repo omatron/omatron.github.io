@@ -1,6 +1,9 @@
-<h1>Oi 🙋🏻‍♂️
-Esse acesso será registrado.😉
-Team Security
+<h1>Oi 🙋🏻‍♂️<br>
+
+“ O importante é não parar de questionar. Curiosidade tem sua própria razão para existir. ” <br>
+Albert Einstein <br>
+Esse acesso será registrado.😉 <br>
+Team Cybersec <br>
 <h1/>
 
 <html>
