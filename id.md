@@ -1,5 +1,4 @@
-<h1>Oi 🙋🏻‍♂️<br><br><br>
-
+<h1>Oi 🙋🏻‍♂️<br><br>
 Você foi vítima de um phishing via QR Code.
 </h1>
 <h2>
